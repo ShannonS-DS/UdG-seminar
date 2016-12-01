@@ -1,11 +1,13 @@
 twython==3.4.0
 gmaps==0.3.5
 matplotlib==1.5.3
-pandas==0.19.1
+pandas==0.18.1
 nltk==3.0.0
 wordcloud==1.2.1
 numpy==1.11.2
+scipy==0.18.1
 scikit-learn==0.17
 gensim==0.13.3
 pyLDAvis==2.0.0
-scipy==0.18.1
+jupyter==1.0.0
+image==1.5.5
